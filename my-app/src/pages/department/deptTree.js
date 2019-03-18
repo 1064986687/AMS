@@ -206,7 +206,7 @@ export default connect((state) => {
         depts:(function (depts) {
             const formatDepts = [
                 {
-                    department_name:'QxQstar',
+                    department_name:'Company',
                     department_pid:-1,
                     department_id:0,
                     spread:true

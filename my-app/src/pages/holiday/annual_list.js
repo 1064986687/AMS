@@ -21,7 +21,8 @@ export default class extends Component{
         this.cols = [
             {
                 title:'姓名',
-                key:'member_name'
+                key:'member_name',
+                width:100
             },
             {
                 title:'部门',

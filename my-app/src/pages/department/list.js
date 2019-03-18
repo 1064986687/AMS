@@ -20,7 +20,8 @@ import {connect} from 'react-redux';
             {
                 title:'姓名',
                 key:'member_name',
-                dataIndex:'member_name'
+                dataIndex:'member_name',
+                width:300
             },
             {
                 title:'部门',
